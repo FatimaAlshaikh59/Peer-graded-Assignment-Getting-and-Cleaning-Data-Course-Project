@@ -3,7 +3,7 @@ Contains the data that's indicate all the variables and summaries calculated, al
 The data set contains 180 observation and 82 variable, and the measurment comprise the mean per subject and activity.
 	* subjectID
 the ID for the 30 volunteer who did the expermint. rang of the variable from 1 to 30.	
-  * ActivityName
+        * ActivityName
 there is six levels of activity; indicting the activities performed by the subjects
                  WALKING
                   WALKING_UPSTAIRS
@@ -11,10 +11,10 @@ there is six levels of activity; indicting the activities performed by the subje
                   SITTING
                   STANDING
                   LAYING	
-                  *ActivityID	
+         * ActivityID	
 Each one of the activites have a specific ID
 	                1. WALKING
-                  2. WALKING_UPSTAIRS
+                        2. WALKING_UPSTAIRS
                  3.  WALKING_DOWNSTAIRS,
                   4. SITTING
                   5. STANDING
