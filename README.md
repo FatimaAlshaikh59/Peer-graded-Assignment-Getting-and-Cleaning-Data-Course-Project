@@ -12,9 +12,6 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 # CodeBook.md file:
 contains data that's indicate all the variables and summaries calculated, along with units, and any other relevant information.
 
-# #create a directory if not found, in which the downloded data will be stored
-if(!file.exists("./Assignment")){dir.create("./Assignment")}
-
 # datasetordered.txt:
 This file contain the tidy processed data in which average of each variable for each activity and each subject was calculated.
 
