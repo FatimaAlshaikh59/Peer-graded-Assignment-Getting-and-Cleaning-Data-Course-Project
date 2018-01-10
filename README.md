@@ -15,5 +15,13 @@ contains data that's indicate all the variables and summaries calculated, along 
 # datasetordered.txt:
 This file contain the tidy processed data in which average of each variable for each activity and each subject was calculated.
 
-# script.R:
+# run_analysis.R:
 In which a code to reproduce the tidydata set is included. 
+
+R script c that does the following.
+
+    Merges the training and the test sets to create one data set.
+    Extracts only the measurements on the mean and standard deviation for each measurement.
+    Uses descriptive activity names to name the activities in the data set
+    Appropriately labels the data set with descriptive variable names.
+    From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity     and each subject.
